@@ -1,0 +1,1 @@
+{"name":"Local: h","url":"d:\\machine-learning-codes\\phase-4\\h.cpp","tests":[{"id":1720781275260,"input":"11\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11","output":"0\n0\n0\n1\n1\n3\n3\n6\n6\n10\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\machine-learning-codes\\phase-4\\h.cpp","group":"local","local":true}

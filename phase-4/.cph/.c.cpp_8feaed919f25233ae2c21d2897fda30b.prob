@@ -1,0 +1,1 @@
+{"name":"Local: c","url":"d:\\machine-learning-codes\\phase-4\\c.cpp","tests":[{"id":1720777543733,"input":"5\n4 8 2 6 2\n4 5 4 1 3","output":"7\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\machine-learning-codes\\phase-4\\c.cpp","group":"local","local":true}

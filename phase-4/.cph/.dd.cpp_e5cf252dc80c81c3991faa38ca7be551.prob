@@ -1,0 +1,1 @@
+{"name":"Local: dd","url":"d:\\machine-learning-codes\\phase-4\\dd.cpp","tests":[{"id":1720783135764,"input":"6\n6 4 2 7 2 7\n3\n2 3 6\n1 3 4\n1 1 6","output":"24\n9\n28"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\machine-learning-codes\\phase-4\\dd.cpp","group":"local","local":true}
